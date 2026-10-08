@@ -17,6 +17,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22Shree08/DSA-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Tree
 |  |
@@ -37,4 +38,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/22Shree08/DSA-problem/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/22Shree08/DSA-problem/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
