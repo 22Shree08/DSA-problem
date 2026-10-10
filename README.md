@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/22Shree08/DSA-problem/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Shree08/DSA-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,8 +43,17 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
+| [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
