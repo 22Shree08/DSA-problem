@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/22Shree08/DSA-problem/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/22Shree08/DSA-problem/tree/master/0008-string-to-integer-atoi) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
