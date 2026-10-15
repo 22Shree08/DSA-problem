@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/22Shree08/DSA-problem/tree/master/0007-reverse-integer) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Recursion
 |  |
