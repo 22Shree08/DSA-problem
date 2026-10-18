@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/22Shree08/DSA-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/22Shree08/DSA-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/22Shree08/DSA-problem/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Shree08/DSA-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/22Shree08/DSA-problem/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/22Shree08/DSA-problem/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/22Shree08/DSA-problem/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/22Shree08/DSA-problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/22Shree08/DSA-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
