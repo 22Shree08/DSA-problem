@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/22Shree08/DSA-problem/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22Shree08/DSA-problem/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22Shree08/DSA-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0147-insertion-sort-list](https://github.com/22Shree08/DSA-problem/tree/master/0147-insertion-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/22Shree08/DSA-problem/tree/master/0147-insertion-sort-list) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Binary Search
 |  |
