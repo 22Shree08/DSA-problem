@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/22Shree08/DSA-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/22Shree08/DSA-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/22Shree08/DSA-problem/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/22Shree08/DSA-problem/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Shree08/DSA-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Hash Table
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/22Shree08/DSA-problem/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Shree08/DSA-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Linked List
 |  |
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/22Shree08/DSA-problem/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/22Shree08/DSA-problem/tree/master/0147-insertion-sort-list) |
 | [0539-minimum-time-difference](https://github.com/22Shree08/DSA-problem/tree/master/0539-minimum-time-difference) |
 ## Binary Search
